@@ -4,7 +4,7 @@ A slow multi-channel oscilloscope built from an **Arduino Nano** and a **laptop 
 Up to 6 channels, exact time/div, pre-trigger, single shot, roll mode, cursors, automatic
 measurements (frequency, duty cycle, Vpp, rise/fall time, ...) and CSV export.
 
-![Nano Scope GUI](docs/screenshot.png)
+![Nano Scope GUI](images/screenshot.png)
 
 *Screenshot taken in `--demo` mode with simulated signals (no hardware attached).*
 
